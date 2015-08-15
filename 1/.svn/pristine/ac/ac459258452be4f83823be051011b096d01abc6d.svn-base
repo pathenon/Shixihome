@@ -1,0 +1,7 @@
+#
+# robots.txt for www.shixihome.com
+#
+
+User-agent: *
+
+Sitemap:http://www.example.com/sitemap.xml
